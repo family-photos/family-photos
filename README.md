@@ -1,2 +1,2 @@
-# family-photos
+# Family Photos
 Keep them forever!
